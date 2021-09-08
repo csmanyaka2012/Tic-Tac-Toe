@@ -1,0 +1,114 @@
+
+k	java:S116"VRename this field "title_panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¨üŸ
+l	java:S116"WRename this field "button_panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ªšä
+l	java:S116"WRename this field "player1_turn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶Ü®
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+W
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(½Ğãà
+t
+java:S2142T"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ó˜¥÷ıÿÿÿÿ
+O
+java:S4973;"9Use the "equals" method if value comparison was intended.(Æåü
+O
+java:S4973C"9Use the "equals" method if value comparison was intended.(Æåü
+N
+java:S4973b"9Use the "equals" method if value comparison was intended.(‡»õ
+T
+java:S4973c"9Use the "equals" method if value comparison was intended.(Ğ¯Å˜úÿÿÿÿ
+T
+java:S4973d"9Use the "equals" method if value comparison was intended.(è‚”ìÿÿÿÿÿ
+O
+java:S4973g"9Use the "equals" method if value comparison was intended.(ƒ¡¬É
+T
+java:S4973h"9Use the "equals" method if value comparison was intended.(Ë—”Éùÿÿÿÿ
+T
+java:S4973i"9Use the "equals" method if value comparison was intended.(œŸÜ™úÿÿÿÿ
+O
+java:S4973l"9Use the "equals" method if value comparison was intended.(¯ë’ğ
+T
+java:S4973m"9Use the "equals" method if value comparison was intended.(İ¦–Äûÿÿÿÿ
+O
+java:S4973n"9Use the "equals" method if value comparison was intended.(¢“úü
+N
+java:S4973q"9Use the "equals" method if value comparison was intended.(‡»õ
+T
+java:S4973r"9Use the "equals" method if value comparison was intended.(Ü«…üÿÿÿÿ
+O
+java:S4973s"9Use the "equals" method if value comparison was intended.(š™¿Ó
+O
+java:S4973v"9Use the "equals" method if value comparison was intended.(–—¢
+T
+java:S4973w"9Use the "equals" method if value comparison was intended.(Ë—”Éùÿÿÿÿ
+O
+java:S4973x"9Use the "equals" method if value comparison was intended.(¦öİÉ
+T
+java:S4973{"9Use the "equals" method if value comparison was intended.(Ñ¥øûÿÿÿÿ
+T
+java:S4973|"9Use the "equals" method if value comparison was intended.(àß½¥ıÿÿÿÿ
+O
+java:S4973}"9Use the "equals" method if value comparison was intended.(¢“úü
+O
+java:S4973€"9Use the "equals" method if value comparison was intended.(‡»õ
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(Ë—”Éùÿÿÿÿ
+P
+java:S4973‚"9Use the "equals" method if value comparison was intended.(¢“úü
+U
+java:S4973…"9Use the "equals" method if value comparison was intended.(Ñ¥øûÿÿÿÿ
+U
+java:S4973†"9Use the "equals" method if value comparison was intended.(Ë—”Éùÿÿÿÿ
+P
+java:S4973‡"9Use the "equals" method if value comparison was intended.(š™¿Ó
+P
+java:S4973Š"9Use the "equals" method if value comparison was intended.(†—¤›
+P
+java:S4973‹"9Use the "equals" method if value comparison was intended.(•Ñ¼û
+U
+java:S4973Œ"9Use the "equals" method if value comparison was intended.(·ı—™şÿÿÿÿ
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(îÍ÷äûÿÿÿÿ
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(ëòÄÏüÿÿÿÿ
+U
+java:S4973‘"9Use the "equals" method if value comparison was intended.(‚¯İùÿÿÿÿ
+U
+java:S4973”"9Use the "equals" method if value comparison was intended.(ò¬š·ÿÿÿÿÿ
+O
+java:S4973•"9Use the "equals" method if value comparison was intended.(¬ÁëN
+U
+java:S4973–"9Use the "equals" method if value comparison was intended.(Ë¶††üÿÿÿÿ
+P
+java:S4973™"9Use the "equals" method if value comparison was intended.(†—¤›
+U
+java:S4973š"9Use the "equals" method if value comparison was intended.(¢›—˜ıÿÿÿÿ
+U
+java:S4973›"9Use the "equals" method if value comparison was intended.(ùØúÿÿÿÿ
+P
+java:S4973"9Use the "equals" method if value comparison was intended.(ş§øÜ
+U
+java:S4973Ÿ"9Use the "equals" method if value comparison was intended.(ëòÄÏüÿÿÿÿ
+U
+java:S4973 "9Use the "equals" method if value comparison was intended.(óôıéùÿÿÿÿ
+U
+java:S4973£"9Use the "equals" method if value comparison was intended.(¾øÒñÿÿÿÿÿ
+P
+java:S4973¤"9Use the "equals" method if value comparison was intended.(û„„
+U
+java:S4973¥"9Use the "equals" method if value comparison was intended.(Ë¶††üÿÿÿÿ
+P
+java:S4973¨"9Use the "equals" method if value comparison was intended.(†—¤›
+U
+java:S4973©"9Use the "equals" method if value comparison was intended.(ëòÄÏüÿÿÿÿ
+U
+java:S4973ª"9Use the "equals" method if value comparison was intended.(Ë¶††üÿÿÿÿ
+U
+java:S4973­"9Use the "equals" method if value comparison was intended.(¾øÒñÿÿÿÿÿ
+U
+java:S4973®"9Use the "equals" method if value comparison was intended.(ëòÄÏüÿÿÿÿ
+U
+java:S4973¯"9Use the "equals" method if value comparison was intended.(ùØúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
